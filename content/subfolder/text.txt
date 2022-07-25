@@ -1,0 +1,1 @@
+A .txt file created to test the funtionality of path module in 12-path-module.js.
